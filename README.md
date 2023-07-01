@@ -14,7 +14,7 @@ Use of Topological data analysis (TDA) and mainly persistent homology to compute
 4. Statistical tests
 5. Segmentation models
 
-### Librairies
+### Libraries
 * ```gudhi```
 * ```numpy```
 * ```heapq```
